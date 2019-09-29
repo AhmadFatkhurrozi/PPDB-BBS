@@ -1,0 +1,1 @@
+[21-Mar-2019 20:25:42 Asia/Jakarta] PHP Fatal error:  Call to undefined method Model_dashboard::siswa_tervalidasi_plus_pondok() in /home/jomg3847/public_html/bbs/application/views/admin/dashboard.php on line 56
